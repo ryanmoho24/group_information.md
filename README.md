@@ -1,1 +1,1 @@
-# group_information.md
+# Group Member names and information
